@@ -1,0 +1,15 @@
+p + p {
+  color: tomato;
+}
+
+.hermano > span {
+  color: rebeccapurple;
+}
+
+span {
+  font-weight: bold;
+}
+
+div ~ div {
+  color: teal;
+}
